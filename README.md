@@ -1,15 +1,5 @@
 <div align="center">
 
-# 作者自己开发的网站已上线：https://zeejayzine.com/ 。  欢迎使用（接入GPT5.6+image2顶流模型，国内环境可用）
-
-# 拾景zine
-
-### GATHERED SCENES ZINE
-
-把普通画面，变成值得停留的一页。
-
-**作者 / Author · Zeejay0**
-
 [English](README.en.md) · [两种创作路径](#两种创作路径) · [开始使用](#开始使用) · [作品档案](#作品档案)
 
 </div>
